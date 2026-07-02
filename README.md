@@ -2,7 +2,7 @@
 <h3 align="center">AI & Full-Stack Developer — turning AI research into production systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+multi-agent+AI+systems;B.Tech+AI+%26+Data+Science+%40+KJ+Somaiya;Ex-Intern+%40+HPCL+%26+IndianOil;Turning+LLMs+into+things+that+actually+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+multi-agent+AI+systems;B.Tech+AI+%26+Data+Science;Turning+LLMs+into+things+that+actually+ship" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,12 +18,11 @@
 ```yaml
 name: Apeksha Saxena
 role: AI & Full-Stack Developer
-education: B.Tech AI & Data Science, K.J. Somaiya School of Engineering (2023–2027)
+education: B.Tech AI & Data Science
 currently_building: RAG pipelines, multi-agent systems, self-hosted deploy platforms
 fun_fact: "I read brand strategy case studies for fun"
 ```
 
-I'm a third-year AI & Data Science student who likes taking LLMs out of the notebook and into production. I've built enterprise AI systems at **HPCL** and **IndianOil** — think RAG pipelines, multi-agent orchestration, semantic search, and voice-driven document assistants used by real employees. Outside of engineering, I'm into brand strategy and behavioral psychology — understanding how people think shapes how I build products.
 
 📫 Open to full-time roles, internships, and interesting collaborations.
 
@@ -117,10 +116,4 @@ A minimal Vercel/Netlify alternative: clone → security-scan → build → uplo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshasaxena12&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://portfolio.minideploy.xyz/">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/apeksha-saxena-3a5632281/">💼 LinkedIn</a> ·
-  <a href="mailto:apekshasaxena2004@gmail.com">✉️ Email</a>
-</p>
