@@ -101,9 +101,9 @@ A minimal Vercel/Netlify alternative: clone → security-scan → build → uplo
 </tr>
 </table>
 
-**🏢 Enterprise AI @ HPCL** — Built the Collections module for HPGPT (multi-agent AI platform with AI auto-categorisation & FAISS semantic search), extended a Multi-Agent Voice System with hands-free voice chat, customised Open WebUI for on-prem deployment, and migrated legacy document search to Spring Boot with an integrated RAG chatbot.
+**🏢 Enterprise AI** — Built the Collections module for HPGPT (multi-agent AI platform with AI auto-categorisation & FAISS semantic search), extended a Multi-Agent Voice System with hands-free voice chat, customised Open WebUI for on-prem deployment, and migrated legacy document search to Spring Boot with an integrated RAG chatbot.
 
-**⚙️ AI/ML @ IndianOil** — Built an LLM-powered document summarization & query system (LLaMA 3.2) and a RAG pipeline with vector search, plus a news intelligence pipeline crawling oil & gas sources into Qdrant.
+**⚙️ AI/ML** — Built an LLM-powered document summarization & query system (LLaMA 3.2) and a RAG pipeline with vector search, plus a news intelligence pipeline crawling oil & gas sources into Qdrant.
 
 👉 More detail, screenshots & case studies on my **[portfolio](https://portfolio.minideploy.xyz/)**.
 
