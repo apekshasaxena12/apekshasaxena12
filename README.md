@@ -11,6 +11,10 @@
   <a href="mailto:apekshasaxena2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apekshasaxena12&label=Profile+views&color=6C63FF&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -114,5 +118,3 @@ A minimal Vercel/Netlify alternative: clone → security-scan → build → uplo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshasaxena12&theme=tokyonight&hide_border=true" />
 </p>
-
-
