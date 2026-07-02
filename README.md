@@ -2,7 +2,7 @@
 <h3 align="center">AI & Full-Stack Developer — turning AI research into production systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+multi-agent+AI+systems;B.Tech+AI+%26+Data+Science+%40+KJ+Somaiya+(9.61+CGPA);Ex-Intern+%40+HPCL+%26+IndianOil;Turning+LLMs+into+things+that+actually+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+multi-agent+AI+systems;B.Tech+AI+%26+Data+Science+%40+KJ+Somaiya;Ex-Intern+%40+HPCL+%26+IndianOil;Turning+LLMs+into+things+that+actually+ship" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,10 +19,8 @@
 name: Apeksha Saxena
 role: AI & Full-Stack Developer
 education: B.Tech AI & Data Science, K.J. Somaiya School of Engineering (2023–2027)
-cgpa: 9.61 / 10  (Honors: Cybersecurity — 8.91)
 currently_building: RAG pipelines, multi-agent systems, self-hosted deploy platforms
-experience: ["HPCL — AI/Full-Stack Intern", "IndianOil — AI/ML Intern"]
-fun_fact: "150+ LeetCode problems solved, and I read brand strategy case studies for fun"
+fun_fact: "I read brand strategy case studies for fun"
 ```
 
 I'm a third-year AI & Data Science student who likes taking LLMs out of the notebook and into production. I've built enterprise AI systems at **HPCL** and **IndianOil** — think RAG pipelines, multi-agent orchestration, semantic search, and voice-driven document assistants used by real employees. Outside of engineering, I'm into brand strategy and behavioral psychology — understanding how people think shapes how I build products.
@@ -116,28 +114,10 @@ A minimal Vercel/Netlify alternative: clone → security-scan → build → uplo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apekshasaxena12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apekshasaxena12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshasaxena12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-### 🏆 Beyond the Code
-
-- ⚔️ Solved **150+ problems** on LeetCode
-- 🎓 **CGPA 9.61/10** — B.Tech AI & Data Science, Cybersecurity Honors
-- 🏢 Interned at **two Fortune India 500 PSUs** — HPCL & IndianOil
-- 📈 Curious about brand strategy, market case studies & behavioral psychology
-
----
-
-<p align="center">
-  <i>Currently exploring how far RAG + multi-agent systems can go before they break — and how to make sure they don't.</i>
-</p>
 
 <p align="center">
   <a href="https://portfolio.minideploy.xyz/">🌐 Portfolio</a> ·
