@@ -20,7 +20,6 @@ name: Apeksha Saxena
 role: AI & Full-Stack Developer
 education: B.Tech AI & Data Science
 currently_building: RAG pipelines, multi-agent systems, self-hosted deploy platforms
-fun_fact: "I read brand strategy case studies for fun"
 ```
 
 
